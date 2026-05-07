@@ -42,6 +42,6 @@ Conceitos aplicados:
 
 ---
 
-##Ececução
+##Execução
 
 1. Clone este repositório
